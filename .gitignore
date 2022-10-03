@@ -1,2 +1,6 @@
+runs/
+megatron/fused_kernels/build/
 __pycache__
+
+*.so
 
